@@ -1,24 +1,24 @@
 # 🚀 Pañal Band Business
 
-**Pañal Band Business** es una consultora tecnológica dedicada a potenciar ideas y convertirlas en productos digitales exitosos.  
-Nuestro equipo multidisciplinario ofrece **asesoría** y **acompañamiento experto** en todas las fases del desarrollo de software, abarcando proyectos **web**, **backend** y **aplicaciones móviles**.
+**Pañal Band Business** is a technology consulting firm focused on transforming ideas into successful digital products.
+Our multidisciplinary team provides **expert guidance** and **comprehensive support** through every stage of the software development lifecycle — from concept and strategy to design, implementation, and continuous improvement.
 
 ---
 
-## 🏆 ¿En qué nos especializamos?
+## 🏆 What We Do Best
 
-- 💻 **Desarrollo de código a medida**  
-  Para satisfacer necesidades específicas de tu negocio.
+* 💻 **Custom Software Development**
+  Tailor-made code and solutions designed to meet the unique needs of your business.
 
-- 🏗️ **Diseño y arquitectura de sistemas web, APIs y servicios backend**  
-  Soluciones robustas y escalables.
+* 🏗️ **System Architecture & Backend Engineering**
+  We build robust, scalable web systems, APIs, and backend services.
 
-- 📱 **Creación de aplicaciones móviles**  
-  Innovadoras y eficientes para diversas plataformas.
+* 📱 **Mobile App Development**
+  Innovative, high-performance mobile applications for multiple platforms.
 
-- 📊 **Consultoría estratégica y técnica**  
-  Guiamos a nuestros clientes desde la planeación, pasando por la implementación y hasta el mantenimiento.
+* 📊 **Strategic & Technical Consulting**
+  We help clients define, plan, and execute their digital vision — with technical excellence and measurable results.
 
 ---
 
-> Ya sea que estés empezando un nuevo producto, necesites escalar tu infraestructura, optimizar tu código o transformar tu presencia digital, en **Pañal Band Business** te ofrecemos soluciones a la medida, acompañamiento continuo y un enfoque orientado a resultados.
+> Whether you’re launching a new product, scaling your infrastructure, optimizing your codebase, or redefining your digital presence, **Pañal Band Business** delivers tailor-made solutions, continuous support, and a results-driven approach.
